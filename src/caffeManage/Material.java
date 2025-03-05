@@ -1,4 +1,4 @@
-package apersonnal;
+package caffeManage;
 
 public class Material {
     private String name;
